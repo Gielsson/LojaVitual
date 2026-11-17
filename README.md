@@ -216,8 +216,8 @@ Textos livres (nomes, comprador) são gravados com URL-encoding. Assim, um produ
 
 | | Responsabilidade |
 |---|---|
-| **Francisco Gielsson** (Membro A) | `Produto`, `Carrinho`, `ItemCarrinho`, formas de pagamento (polimorfismo), `LojaService`, menus do `Main` |
-| **Kaik Anderson** (Membro B) | `GerenciadorArquivos`, `Compra`, `ItemCompra`, `TransacaoCompra`, `MenuHistorico`, exceções, consistência |
+| **Francisco Gielsson**  | `Produto`, `Carrinho`, `ItemCarrinho`, formas de pagamento (polimorfismo), `LojaService`, menus do `Main` |
+| **Kaik Anderson**  | `GerenciadorArquivos`, `Compra`, `ItemCompra`, `TransacaoCompra`, `MenuHistorico`, exceções, consistência |
 
 <div align="center">
 
